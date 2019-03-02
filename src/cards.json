@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Taz",
+    "image": "https://www.cartoon-clipart.co/amp/images/looney31.gif",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Pepe Le Pew",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH0JSPLgIen8gm_6gvSAKyOAI2k4g-rL3UNKsi3QcP9WCOtpbnuQ",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Tweety Bird",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe1eQ_G0vM1zxmGV1pJh7jdD6pJ44juYywMfRgsifUNkHyRWns",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Speedy Gonzalez",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFbYnG6Ae9wTOG6ViHJYj8ShNr8MY-WQ0269sflr2F9DkwgQcfWw",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Yosemite Sam",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-volFhZGFN5MEg4-VHTlBeQS2fQ-1s7TxhL1es5_RfkB-MVHbfA",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Marvin The Martian",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSzl8Xnvvlvi7xbCRRc-yCyjkJY4iHvPaIbVSGLZJUGPLap2PD9A",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Bugs Bunny",
+    "image": "https://vignette2.wikia.nocookie.net/deathbattlefanon/images/2/2b/Bugs_Bunny.png/revision/latest?cb=20151206010607",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Elmer Fudd",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXJd2jxuis6d-2cPcFLlMvZ1c6RK5hBQ2oNreQ68OnVkxfK2ET",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Daffy Duck",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5a7D-lpx4d7f9s7cJsO2MU7WteEpDDpnOsWredYr6sVRn1vARwg",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Porky Pig",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2BnCapg5ZXRrO3Gwd8ka85DoJvO_sRc1DkN51e2slEbl-Nfn7oQ",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "Wile E. Coyote",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe6MeDpXkzji8rVM4XwCUxPBFzkpuly0RCjWISFl_N53inHrm_nQ",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Road Runner",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl0FSftLG85U7Hb8ZMx02U4vGsXbbifY6uB7K-Pe489b3v8XnOVg",
+    "count": 0
+  }
+]
